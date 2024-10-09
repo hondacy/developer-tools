@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# A simple script to change github remote url from http to more secure ssh
+# A simple script to change github remote url from HTTP to more secure SSH
 # To use:
 #     - Clone this repo: git clone 
 #     - Install all tools by running install.sh
