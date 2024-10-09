@@ -1,10 +1,10 @@
 # Developer Tools
 <p align="center">
-  <img height="120px" src="https://www.sparity.com/wp-content/uploads/2024/02/AWS-Vs-Azure-vs-GCP-%E2%80%93-Which-one-to-choose-in-2024.webp" /> &nbsp;
-  <img height="120px"src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png?20160811101906" /> &nbsp;
-  <img height="120px" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BpICwEN_WhS-MjXa5aQSmA.png" /> &nbsp;
-  <img height="120px" src="https://banner2.cleanpng.com/20180417/ksq/avfow56e6.webp" /> &nbsp;
-  <img height="120px" src="https://cdn-icons-png.flaticon.com/512/10169/10169718.png" /> &nbsp;
+  <img height="90px" src="https://www.sparity.com/wp-content/uploads/2024/02/AWS-Vs-Azure-vs-GCP-%E2%80%93-Which-one-to-choose-in-2024.webp" /> &nbsp;
+  <img height="90px"src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png?20160811101906" /> &nbsp;
+  <img height="90px" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BpICwEN_WhS-MjXa5aQSmA.png" /> &nbsp;
+  <img height="90px" src="https://banner2.cleanpng.com/20180417/ksq/avfow56e6.webp" /> &nbsp;
+  <img height="90px" src="https://cdn-icons-png.flaticon.com/512/10169/10169718.png" /> &nbsp;
 
 </p>
 
