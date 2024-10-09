@@ -22,6 +22,6 @@ Tools developer's must have in their arsenal.
  - More to come, Don't forget to [watch this repo](https://github.com/hondacy/developer-tools/subscription)
  
 
-## Images Credits:
+## Images Credits
 <a href="https://www.flaticon.com/free-icons/software-development" title="software development icons">Software development icons created by Freepik - Flaticon</a><br>
 <a href="https://www.cleanpng.com/" title="CleanPNG">CleanPNG</a><br>
