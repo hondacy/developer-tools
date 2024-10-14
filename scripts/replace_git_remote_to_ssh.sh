@@ -14,7 +14,7 @@
 # Github Docs about how to add a new SSH key to your account: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 
 ## CONSTANT VARS - Change to suit your organization:
-ORGANIZATION='ClickIDF'
+ORGANIZATION='MyOrg'
 DEBUG=flase
 
 count=0
